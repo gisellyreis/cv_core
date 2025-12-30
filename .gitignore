@@ -1,0 +1,11 @@
+# --- Media Files (Input & Output) ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+*.jpg
+*.png
+
+# --- Model Weights ---
+*.pt
