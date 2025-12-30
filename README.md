@@ -31,9 +31,9 @@ The core pipeline processes raw video feeds to extract semantic information. Bel
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/yourusername/cv_core.git](https://github.com/yourusername/cv_core.git)
-   cd cv_core
+    ```bash
+    git clone https://github.com/gisellyreis/cv_core.git
+    cd cv_core
 
 2. **Install dependencies** \
   *Ensure you have Python installed, then run:*
